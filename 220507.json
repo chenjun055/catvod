@@ -19,6 +19,7 @@
 "quickSearch": 0,
 "filterable": 1
 },
+  {"key":"LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/0YaMvPDA"},
   {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/Hf6Dpqgu"},
   {"key":"csp_xpath_if101","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/q5Rch4Kr"},
@@ -646,5 +647,5 @@
 "cdnjs.hnfenxun.com",
 "cms.qdwght.com"
 ],
-"spider": "https://chenjun055.github.io/catvod/chenjun.jar"
+"spider": "https://chenjun055.github.io/catvod/willing.jar"
 }
