@@ -24,7 +24,64 @@
   {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/Hf6Dpqgu"},
   {"key":"csp_xpath_if101","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/q5Rch4Kr"},
   {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/ZMV0SxYd"},
-
+{
+		"key": "293视频",
+		"name": "🐞293视频",
+		"type": 3,
+		"api": "csp_SP293",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": ""
+	}, 
+{
+		"key": "Smdyy_spider",
+		"name": "🐞神马影视",
+		"api": "csp_Smdyy",
+		"type": 3,
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1,
+		"ext": ""
+	}, 
+{
+		"key": "csp_CZSPP",
+		"name": "🐞厂长资源",
+		"type": 3,
+		"api": "csp_Czsapp",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	}, 
+{
+		"key": "csp_DiDuan",
+		"name": "🐞低端影视",
+		"type": 3,
+		"api": "csp_Ddrk",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	}, 
+{
+		"key": "csp_BBB",
+		"name": "🐞哔哩哔哩",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"
+	}, 
+ {
+		"key": "csp_xpath_naifeiorg",
+		"name": "奈飞中文(XPF)",
+		"type": 3,
+		"api": "csp_XPathMacFilter",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/naifeiorg.json"
+	},
 {
 "key": "csp_Cokemv",
 "name": "Cokemv(爬虫)",
