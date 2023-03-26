@@ -153,148 +153,14 @@
    "filterable": 1
   },
   {
-   "key": "py_bilimy",
-   "name": "py_bilimy(Pyramid)",
-   "type": 3,
-   "api": "py_bilimy",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://drpy.master36.repl.co/txt/py/py_bilimy.py"
-  },
-  {
-   "key": "py_biliys",
-   "name": "py_biliys(Pyramid)",
-   "type": 3,
-   "api": "py_biliys",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://drpy.master36.repl.co/txt/py/py_biliys.py"
-  },
-  {
-   "key": "py_bilizb",
-   "name": "py_bilizb(Pyramid)",
-   "type": 3,
-   "api": "py_bilizb",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "https://drpy.master36.repl.co/txt/py/py_bilizb.py"
-  },
-  {
-   "key": "Alist",
-   "name": "Alist",
-   "type": 3,
-   "api": "https://drpy.master36.repl.co/libs/alist.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://drpy.master36.repl.co/txt/json/alist.json;200;video"
-  },
-  {
-   "key": "Alist_pt",
-   "name": "Alist(pluto)",
-   "type": 3,
-   "api": "https://drpy.master36.repl.co/libs/alist.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://drpy.master36.repl.co/config/2;200;video"
-  },
-  {
-   "key": "Alist_obj",
-   "name": "Alist(obj)",
-   "type": 3,
-   "api": "https://drpy.master36.repl.co/libs/alist.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": [
-    {
-     "name": "🙋丫仙女",
-     "server": "http://alist.xiaoya.pro/",
-     "startPage": "/",
-     "showAll": false,
-     "search": true,
-     "params": {
-      "/abc": {
-       "password": "123"
-      },
-      "/abc/abc": {
-       "password": "123"
-      }
-     }
-    },
-    {
-     "name": "🌤晴园的宝藏库",
-     "server": "https://alist.52qy.repl.co"
-    },
-    {
-     "name": "🐭米奇妙妙屋",
-     "server": "https://anime.mqmmw.ga"
-    },
-    {
-     "name": "💂小兵组网盘影视",
-     "server": "https://6vv.app"
-    },
-    {
-     "name": "🐋一只鱼",
-     "server": "https://alist.youte.ml"
-    },
-    {
-     "name": "🌊七米蓝",
-     "server": "https://al.chirmyram.com"
-    },
-    {
-     "name": "🥼帅盘",
-     "server": "https://hi.shuaipeng.wang"
-    },
-    {
-     "name": "🐉神族九帝",
-     "server": "https://alist.shenzjd.com"
-    },
-    {
-     "name": "☃️姬路白雪",
-     "server": "https://pan.jlbx.xyz"
-    },
-    {
-     "name": "🎧听闻网盘",
-     "server": "https://wangpan.sangxuesheng.com"
-    },
-    {
-     "name": "💾DISK",
-     "server": "http://124.222.140.243:8080"
-    },
-    {
-     "name": "🌨云播放",
-     "server": "https://quanzi.laoxianghuijia.cn"
-    },
-    {
-     "name": "✨星梦",
-     "server": "https://pan.bashroot.top"
-    },
-    {
-     "name": "💫触光",
-     "server": "https://pan.ichuguang.com"
-    },
-    {
-     "name": "🕵️好汉吧",
-     "server": "https://8023.haohanba.cn"
-    },
-    {
-     "name": "💢repl",
-     "server": "https://ali.liucn.repl.co"
-    },
-    {
-     "name": "🌨秋雨分享",
-     "server": "https://share.laowang.me"
-    },
-    {
-     "name": "💦讯维云盘",
-     "server": "https://pan.xwbeta.com"
-    }
-   ]
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
   },
   {
    "key": "cms_douban",
@@ -2120,25 +1986,24 @@
    "ext": "http://luobo.yugenye.site/api.php/v1.vod"
   },
   {
-   "key": "阿里盤搜",
-   "name": "阿里盤搜",
+   "key": "盤搜",
+   "name": "盤搜",
    "type": 3,
-   "api": "csp_AliPanSou",
+   "api": "csp_PanSou",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "59744816075f4729bc00cd23b98e3447",
-   "plugin": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+   "filterable": 0,
+   "changeable": 0,
+   "ext": "http://ali.饭太硬.ml/alitoken"
   },
   {
-   "key": "csp_GitCafe",
-   "name": "小纸条",
+   "key": "紙條",
+   "name": "紙條",
    "type": 3,
-   "api": "csp_Gitcafe",
+   "api": "csp_Paper",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "59744816075f4729bc00cd23b98e3447"
+   "filterable": 1,
+   "changeable": 0,
+   "ext": "http://ali.饭太硬.ml/alitoken"
   },
   {
    "key": "push_agent",
@@ -2181,10 +2046,10 @@
    "key": "csp_Nbys",
    "name": "📺泥巴(SP需翻墙)",
    "type": 3,
-   "api": "csp_Nbys",
+   "api": "csp_NiNi",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
+   "changeable": 1
   },
   {
    "key": "mjxq_spider",
