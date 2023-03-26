@@ -5,15 +5,6 @@
  "spider": "https://drpy.master36.repl.co/liveslib",
  "drives": [
   {
-   "key": "csp_Kunyu77",
-   "name": "👒七七(SP)",
-   "type": 3,
-   "api": "csp_Kunyu77",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "name": "🙋丫仙女",
    "server": "http://alist.xiaoya.pro/",
    "type": "alist"
@@ -152,6 +143,15 @@
  ],
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
+  {
+   "key": "csp_Kunyu77",
+   "name": "👒七七(SP)",
+   "type": 3,
+   "api": "csp_Kunyu77",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
   {
    "key": "dr_348电影网",
    "name": "348电影网(drpy)",
