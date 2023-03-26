@@ -153,14 +153,14 @@
    "filterable": 1
   },
   {
-      "key": "哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+   "key": "哔哩",
+   "name": "哔哩",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 1,
+   "filterable": 1,
+   "changeable": 0,
+   "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
   },
   {
    "key": "cms_douban",
