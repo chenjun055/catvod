@@ -2,6 +2,15 @@
   "spider": "https://chenjun055.github.io/catvod/cjtv.jar;md5;a8f3edaf1afd3ed28413b3ed26fd8fbd",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
+    {
+			"key": "csp_77",
+			"name": "CJTV",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
     { 
       "key": "量子", 
       "name": "量子", 
@@ -11,14 +20,13 @@
       "changeable": 1 
     }, 
     {
-      "key":"Kuaikan",
-      "name":"快看",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"459b1cb892e317546676a2c9dcec2bff"
+      "key": "JOJO",
+      "name": "︎JOJO┃直连",
+      "type": 3,
+      "api": "csp_JOJO",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "本地",
