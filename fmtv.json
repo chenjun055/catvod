@@ -2,6 +2,14 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;836941085af643869ef5e0d9dce6d301",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
+    { 
+      "key": "量子", 
+      "name": "量子", 
+      "type": 0, 
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/", 
+      "searchable": 1, 
+      "changeable": 1 
+    }, 
     {
       "key": "本地",
       "name": "本地",
