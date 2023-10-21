@@ -11,6 +11,16 @@
       "changeable": 1 
     }, 
     {
+      "key":"Kuaikan",
+      "name":"快看",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"459b1cb892e317546676a2c9dcec2bff"
+    },
+    {
       "key": "本地",
       "name": "本地",
       "type": 3,
